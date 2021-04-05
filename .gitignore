@@ -1,0 +1,8 @@
+word_count/output_file/*
+*.lst
+*.prefs
+*.classpath
+*.project
+*.class
+*.MF
+*.jar
